@@ -1,1 +1,0 @@
-window.HealthSuiteConfig={points:{HWQ:1,NUT:1,DANCE:1,TOOTH:1,HYDR:1,BAL:1,GERM:1.2,FOOD:1.2},leaderboard:{topN:10},sheets:{writeUrl:'',readUrl:''},badges:[]};

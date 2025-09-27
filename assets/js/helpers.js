@@ -1,1 +1,0 @@
-window.MobileReady={enableMotionIfNeeded:()=>{},joystick:()=>{}};
